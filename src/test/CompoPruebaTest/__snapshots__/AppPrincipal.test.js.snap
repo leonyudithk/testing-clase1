@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba al componente AppPrincipal validar que renderiza AppPrincipal 1`] = `
+<div>
+  <h1>
+    Hola Frontend-9
+  </h1>
+  <h3>
+    Hoy es su ultimo dia de clases pero el primero de carrera profesional
+  </h3>
+  <p>
+    La informacion es correcta
+  </p>
+</div>
+`;
